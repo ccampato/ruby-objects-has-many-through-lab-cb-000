@@ -11,7 +11,7 @@ class Appointment
   end
 
   def self.all
-    @@ll
+    @@all
   end
 
 end
